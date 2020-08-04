@@ -1,0 +1,6 @@
+fr\ronan\Enbois.class
+fr\ronan\JDBCEnboisRepository.class
+fr\ronan\JDBCEnboisRepository$EnboisMapper.class
+fr\ronan\Main.class
+fr\ronan\AppConfiguration.class
+fr\ronan\EnboisRepository.class
