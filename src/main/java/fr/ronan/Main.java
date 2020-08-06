@@ -5,7 +5,7 @@ import org.springframework.context.annotation.AnnotationConfigApplicationContext
 import lombok.extern.log4j.Log4j;
 
 @Log4j
-public class Main {
+public class Main{
 	public static void main(String[] args) {
 		ApplicationContext ctx = new AnnotationConfigApplicationContext(AppConfiguration.class);
 
@@ -19,5 +19,6 @@ public class Main {
 
 		log.info("ajout de l'enbois");
 		System.out.println(jdbcEnboisRepository.save(enbois));
+		Ihm.startIhm();
 	}
 }
