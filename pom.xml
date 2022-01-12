@@ -23,7 +23,7 @@
 		<oracle.version>19.7.0.0</oracle.version>
 		<mysql.version>8.0.21</mysql.version>
 		<mainClass>fr.ronan.Main</mainClass>
-		<spring.version>5.2.8.RELEASE</spring.version>
+		<spring.version>5.3.14</spring.version>
 		<!-- 2.3.2.RELEASE -->
 		<spring.data.jpa.version>2.2.7.RELEASE</spring.data.jpa.version>
 		<hibernate.version>5.4.13.Final</hibernate.version>
